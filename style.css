@@ -1,0 +1,55 @@
+body {
+    background: rgba(246, 69, 69, 0.564);
+    font-family: monospace, sans-serif;
+    text-align: left;
+    margin: 10px;
+    padding: 10px;
+}
+
+h1 {
+    position: relative;
+    font-weight: 800;
+    font-size: 60px;
+    background-color: bisque;
+    width: fit-content;  
+}
+
+img {
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+  }
+
+h2 {
+    font-weight: 400;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+div {
+    padding: 10px;
+    margin-top: 10px;
+    width: fit-content;
+}
+
+.intro,.backButton {
+    background-color: rgba(150, 93, 93, 0.564);
+}
+
+.method,.ingredients {
+    background-color: rgba(228, 86, 86, 0.564); 
+}
+
+.ingredients {
+    border: dotted;
+}
+
+.links {
+    width: 380px;
+    height: auto;
+    font-size: 18px;
+    background-color: rgba(208, 137, 62, 0.564);
+}
+
